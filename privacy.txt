@@ -1,0 +1,10 @@
+PRIVACY POLICY FOR MC.KOREWACRAFT.XYZ
+
+By continuing to use this Minecraft Server, certain information is collected and retained, which includes but is not limited to...
+   a. any IP address used to connect to the server
+   b. your Minecraft Username and/or UUID
+   c. any messages sent using the in-game chat function.
+
+DISCLAIMER: We use a plugin called Dynmap which makes messages publicly available from the web. (currently accessible from http://mc.korewacraft.xyz:8123 and http://korewacraft.xyz)
+
+Last updated 06/01/2020 at 9:50PM EST

@@ -6,8 +6,10 @@ src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Signika">
 <style>
 body {
-  background-image: url(bg.png);
-  background-repeat: no-repeat;
+  background: url(bg.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
   margin: auto;
   padding: 10px;
@@ -17,8 +19,8 @@ body {
   text-align: center
 }
     iframe {
-       width: 1000px; /* It should not be 100% */
-       height: 600px;
+       width: 800px; /* It should not be 100% */
+       height: 300px;
        margin-left: auto;   /* Automatic margin from left */
        margin-right: auto; /* Automatic margin from right */
       } 
@@ -32,7 +34,6 @@ body {
   margin: 4px 2px;
   cursor: pointer;
 }
-
 
 a:link, a:visited {
   color: white;
@@ -61,6 +62,14 @@ a:hover, a:active {
     background-color: #ff8000;
     padding: 10px 5px;
     } 
+}
+
+a:hover, a:active {
+  background-color: #99aab5;
+}
+    
+.button1 {background-color: #7289da;} /* Discord Blue */
+.button2 {background-color: #fa6f68;} /* Discord Blue */
 </style>
 </head>
 <body>
@@ -71,14 +80,9 @@ a:hover, a:active {
 <button class="button button1"><a href="https://discord.com/invite/DtZjBEQ">Discord Server</a></button>
 <button class="button button2"><a data-nolt="button" href="https://korewacraft.nolt.io">Vote</a><script async src="https://cdn.nolt.io/widgets.js"></script></button>
 <button class="button button3"><a href="http://korewacraft.xyz/privacy.html">Privacy Policy</a></button>
-
-
-
-<br/>
-<br/>
-<iframe src="http://mc.korewacraft.xyz:8123/">iframe</iframe>
-
+<h3>Minecraft Server Privacy Policy</h3>
+<iframe allowtransparency="false" style="background-color: Snow;"src="privacy.txt">iframe</iframe>
+    
 <h6>DISCLAIMER: This server is not affiliated with the channel KorewaEden on the platform "YouTube"</h6>
-
 </body>
 </html>
