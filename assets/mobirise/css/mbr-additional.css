@@ -752,6 +752,50 @@ section.lazy-placeholder:after {
 .cid-s0LiPvf9F2 .card {
   padding-bottom: 1.5rem;
 }
+.cid-s0YY9pCCIz {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/maxresdefault-1280x720.jpg");
+}
+.cid-s0YY9pCCIz h4 {
+  font-weight: 500;
+  color: #ffffff;
+}
+.cid-s0YY9pCCIz p {
+  color: #ffffff;
+}
+.cid-s0YY9pCCIz .card {
+  margin-bottom: 2rem;
+}
+.cid-s0YY9pCCIz .card-img {
+  border-radius: 0;
+  padding: 2rem 2rem 0 2rem;
+  background-color: #232323;
+}
+.cid-s0YY9pCCIz .card-img span {
+  font-size: 100px;
+  color: #ffffff;
+}
+.cid-s0YY9pCCIz .card-box {
+  padding-bottom: 2rem;
+  background-color: #232323;
+  background: linear-gradient(#232323, transparent);
+}
+.cid-s0YY9pCCIz .card-box .card-title {
+  margin: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-s0YY9pCCIz .card-box .mbr-text {
+  margin-bottom: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-s0YY9pCCIz .card-box .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-s0YY9pCCIz .card-box .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
 .cid-s0OA39eJEO {
   padding-top: 30px;
   padding-bottom: 15px;
