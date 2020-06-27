@@ -43,9 +43,7 @@
     "uniqCompNum": 3,
     "versionPublish": "4.12.3",
     "publishType": "local",
-    "publishPath": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "imageResize": true
+    "publishPath": "file:///D:/Document"
   },
   "pages": {
     "index.html": {
